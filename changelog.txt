@@ -1,0 +1,393 @@
+v3.12.0:
+-Added iron trapdoor texture
+-Added wet sponege texture (14w25a)
+-Added sunflower texture
+-Added rose bush texture
+-Added red tulip texture
+-Added orange tulip texture
+-Added pink tulip texture
+-Added white tulip texture
+-Added oxeye daisy texture
+-Added azure bluet texture
+-Added blue orchid texture
+-Added allium texture
+-Added peony texture
+-Added lilac texture
+-Added large fern texture
+-Added new cursor textur
+-Added bow texture
+-Added diamond texture
+-Added coarse dirt (14w25a)
+-Added new icon
+-Improved iron door texture
+-Fixed stonebrick texture
+-Fixed minor xp bar texture bug
+-Fixed chiseled stonebrick texture 
+-Fixed cursor bug
+-Fixed baked potato texture
+-Fixed potato texture
+
+v3.11.2:
+-Added beacon texture
+-Added beacon beam texture
+-Added hopper GUI texture
+-Added horse GUI texture
+-Added resource pack arrows
+
+v3.11.1:
+-Improved wheat texture
+-Fixed endercrystal texture bug
+
+v3.11.0:
+-Added difficulty lock texture in settings GUI (14w02c)
+-Added granite texture (14w02c)
+-Added polished granite texture (14w02c)
+-Added diorite texture (14w02c)
+-Added polished diorite texture (14w02c)
+-Added andesite texture (14w02c)
+-Added polished andesite texture (14w02c)
+-Added slime block texture (14w02c)
+-Updated entchantment GUI (14w02c)
+
+v3.10.0:
+-Fixed portal bug (currently only the default portal texture)
+-Fixed a small font bug
+-Fixed zombie pigman texture bug
+-Fixed a lava animation bug
+-Improved the chiseled stonebrick texture
+-Improved double tallgrass texture
+-Updated/Improved resource pack order
+-Changed pig texture (Now pink)
+-Changed destroying animation
+-Changed glowstone texture; glowstone texture is now the first version, which was added in an early version
+-Added horse GUI (Sorry for that! I forgot to add this)
+-Added the "Boss Bar" texture
+
+ANNOUNCEMENT: A BIG update to the SmoothTex 32x Edtition is on the way !!!
+
+v3.9.0:
+
+-Added dark oak wood texture
+-Added acacia wood texture
+-Added dark oak leaves texture
+-Added acacia leaves texture
+-Added acacia wood planks texture
+-Added dark oak wood planks texture
+-Added acacia wood slab texture
+-Added dark oak wood slab texture
+-Added acacia wood stairs texture
+-Added dark oak wood stairs texture
+-Added double tallgrass texture
+-Added packed ice texture
+-Added trapped chest texture
+-Added hay bale texture
+-Added coalblock texture
+-Added hardened clay texture
+-Added colored stained clay texture
+-Added colored stained glass texture
+-Added colored stained glass pane texture
+-Added acacia sapling texture
+-Added dark oak sapling texture
+-Added new texture pack logo
+
+
+v3.8.0:
+
+-Changed quartz texture
+-Changed chiseled quartz texture
+-Changed pillar quartz texture
+-Added diamond block animation
+-Added gold block animation
+-Added emerald block animation
+-Added diamond ore animation
+-Added gold ore animation
+-Added emerald ore animation
+-Added iron ore animation
+-Added lapis lazuli ore animation
+-Added redstone ore animation
+-Added lava texture with animation
+-Fixed fire bug
+-Fixed compass bug
+-Fixed clock bug
+
+v3.7.1:
+
+-Added beacon GUI
+-Added Anvil GUI
+-Added Villager GUI
+-Changed Mojang starting screen
+-Changed menu background to red wool
+
+v3.7.0.2:
+
+-Added double chest GUI
+-Added enchantment table GUI
+-Added Creative inventory GUI
+
+v3.7.0.1:
+
+-Fixed zombie texture bug
+
+v3.7.0:
+
+-Support for MC 1.6.x
+-New GUI colour (grey)
+-Changed the ice texture a bit
+-Added quartz textures
+
+v3.6.2:
+
+-Transformed In the new texture pack format (13w04a)
+-Activator rails texture added (13w04a)
+-Dispenser texture updatet (13w04a)
+-Dropper texture added (13w04a)
+-End stone texture changed
+-Endportal-frame texture changed
+-Ladder texture changed a bit
+-Default Wither Portrait added
+-Renewed wood texture in the portraits
+-Achievements GUI bug fixed
+-Hopper texture comes in the next update (13w04a)
+-Quartz blocks textures comes in the next update (13w04a)
+
+v3.6.1:
+
+-Changed cursor in the bar
+-Saturation and shade of yellow wool improved
+-Redstone block texture added
+-Light sensor texture added
+-Redstone Comparator texture added
+-Nether-quartz texture added
+-Iron pressure plates texture added
+-Gold pressure plates texture added
+-Hopper texture added
+-Default item of Nether brick and Nether quartz added
+
+
+v3.6.0:
+
+-New Item Bar GUI added
+-New texture for buttons added
+-changed saturation for the Minecraft logo
+-Added the new logo in the background
+-XP Texture modified (request for feedback)
+-New iventory GUI added
+-New crafting GUI added
+-New furnace GUI added
+-New dispenser GUI added
+-New achievements GUI added
+
+v3.5.2.2:
+
+-Unknowen Pack texture added
+
+v3.5.2.1:
+
+-New Logo added [In the Texture Pack Section in Minecraft]
+-Changelog in the .jar file added
+
+v3.5.2:
+
+-Default Item texture of the new items from the Minecraft version 1.4.6 added
+-Spawn egg texture added
+-Sandstone bug fixed
+
+v3.5.1:
+
+-Added 7 new Creeper textures (Optifine or MCPatcher required)
+
+v3.5.0:
+
+-Added Connected Textures for wooden planks
+-Added Connected Textures for fences
+-Added Connected Textures for wooden half steps
+-Added Connected Textures for wooden stairs
+-Added Connected Textures for glass panes
+-Added Connected Textures for bookshelf
+
+v3.4.1:
+
+-New wooden planks texture added
+-New fence texture added
+-New wooden half steps texture added
+-New wooden stairs texture added
+
+v3.4.0:
+
+-Snow texture changed a bit
+-Glowstone texture changed
+-Birch wood texture improved
+-Enchantment table texture changed
+-Sponge texture improved
+
+v3.3.1:
+
+-Lilly Pad bug fixed
+
+v3.3.0:
+
+-Lava animation added
+-Fixed bug with textures of the wooden door
+-Fixed a bug with the textures of the iron door
+-A few pixels Fixed bug grass block
+-Disabled Redstone Torch darkened
+-Disabled Redstone Repeater darkened
+-Disabled booster rail darkened
+-New Sculpted sandstone texture
+-New Smooth sandstone texture
+-New sandstone texture
+-Mycelium texture changed
+
+v3.2.0:
+
+-New iron Block texture added
+-New gold Block texture added
+-New diamond Block texture added
+-New lapis lazuli Block texture added
+-New emerald Block texture added
+-Animation for gold block added
+-Animation for diamond block added
+-Animation for emerald block added
+
+v3.1.2:
+
+-added the iron ore animation
+-added the gold ore animation
+-added the diamond ore animation
+-added the redstone ore animation
+-added the emerald animation
+-added the lapis lazuli ore animation
+
+v3.1.1:
+
+-Improved the iron ore texture
+-Improved the gold ore texture
+-Improved the diamond ore texture
+-Improved the coal ore texture
+-Improved the redstone ore texture
+-Improved the emerald ore texture
+-Improved the lapis lazuli ore texture
+
+
+v3.1.0:
+
+-Lava bucket texture changed a bit
+-Pot texture added [Item]
+-Diamond block animation added
+-Gold block animation added
+-Iron block animation added
+-Redstone block animation added
+-Lapis Lazuli block animation added
+-Emerald block animation added
+
+v3.0.0:
+
+-5 arts and the background added
+-All massive ore blocks textures changed [First tentative]
+-Ice texture changed
+-Bookshelve texture changed a bit
+-Pumkin texture changed
+-Frame texture added
+-Pot texture added
+-Command bolock texture added
+-Clay texture changed
+-Lava texture changed [Not finshed yet]
+
+v2.8.3:
+
+-Server status-bar texture added
+
+v2.8.2:
+
+-Pumkinblur texture added
+
+v2.8.1:
+
+-Ocelot texture added
+
+v2.8.0:
+
+-Life display in the GUI added
+-Armor display in the GUI added 
+-Hunger display in the GUI added 
+-Breathing display in the GUI added
+-XP Bar in the GUI added 
+
+v2.7.1:
+
+-A 2nd squid texture added
+
+v2.7.0:
+
+-Default-Wither texture added
+-Anvil texture added
+-Anvil GUi added
+-Chicken texture added
+-Cow texture added
+
+v2.6.3.1:
+
+-Background in the menu changed
+-Block animations removed [Better ones come hopefully in the next updates]
+
+v2.6.3:
+
+-Wheat texture completely revised
+-Zombie-villager texture added for 1.4.2 and bug fixed [MCPatcher needed]
+-Bat texture added
+-Sheep texture added
+
+v2.6.2.1:
+
+-Face-texture of Ghast changed a bit
+
+v2.6.2:
+
+-Full GUI more saturated
+
+v2.6.1.1:
+
+-Iron Bars texture changed a bit and bug fixed
+
+v2.6.1:
+
+-Saddle texture added [Not zhe Item]
+-[12w41a] Creeper head texture added [Item]
+-[12w41a] Zombie head texture added [Item]
+-Complete GUI renewed [inc. 12w41a] [In the moment just the Original GUI discolored]
+-SmoothTex Claims in the menu added [Yellow claims]
+
+v2.6.0:
+
+-Chest texture added
+-Enderchest texture added
+-Blaze texture added
+-2 pig textures added
+
+v2.5.2:
+
+-Creeper texture added
+-Ghast texture added
+
+v2.5.1:
+
+-Enderkrystal texture added
+-Moon phases added
+
+
+v2.5.0:
+-Lether texture added
+-Goldnuget texture added
+-Flower und Pumkin texture on the Logo updated
+-'Unknown texture pack' Logo added
+-Sign texture added
+-arrow texture added
+-Minecraft Logo in the Menu added [Green][Please give me a feedback]
+-'Achievement GUI' texture added
+-Clock (inside) texture added
+-Logo in the terrain.png for unknown textures added
+-Boat texture added
+-Water texture corrected
+-Map texture added
+-Dispenser GUI added
+-Window for the Entchentment added [similar the Achievements window]
